@@ -1,6 +1,6 @@
-#  DateFormatter
+# DateFormatter Smith
 
-*DateFormatter* is a small SwiftUI app which helps finding a suitable date and time format.
+*DateFormatter Smith* is a small SwiftUI app which helps finding a suitable date and time format.
 It live converts an input date into a string using Swifts *Foundation* `DateFormatter` and converts the date into the most important time interval representations.
 
 There are different input options (date, CoreData timestamp, Unix timestamp) to start with.
