@@ -8,3 +8,6 @@ Apply a custom date format string (like "dd.MM.yyyy HH:mm") or use pre defined d
 See the live result of your format choices.
 
 There are copy to/from pasteboard buttons for all the input/result 
+
+
+Find *DateFormatter Smith* on the [macOS AppStore](https://apps.apple.com/us/app/dateformatter-smith/id6759536593)
